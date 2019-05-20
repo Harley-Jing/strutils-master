@@ -3,15 +3,14 @@
 
 Add some common extension functions to std::string
 
-/*
-SFormat()   //格式化字符串
-split()     //分割字符串
-SErase()    //删除父串中所有子串
-trim()      //删除字符串前后空格
-toUpper()   //将字符串转化为大写
-toLower()   //将字符串转化为小写
-......
-*/
+* SFormat()   //格式化字符串
+* split()     //分割字符串
+* SErase()    //删除父串中所有子串
+* trim()      //删除字符串前后空格
+* toUpper()   //将字符串转化为大写
+* toLower()   //将字符串转化为小写
+* ......
+
 
 ## sformat
 这是一个超级轻量级的 C++ String Format 实现
