@@ -1,0 +1,41 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Others
+*.db
+*.log
+*.pch
+*.pdb
+*.tlog
+*.idb
+*.ilk
+*.exp
+*.sdf
+*.user
+*.res
+moc_*
+/ipch
+/.vs
+/x64
+/format.VC.db
+/Debug
+/Release
